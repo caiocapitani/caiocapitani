@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Me chamo Caio Capitani</h1>
-<h3 align="center">Um futuro data scientist</h3>
+<h3 align="center">Um futuro Data Scientist</h3>
 
 - 🌱 Atualmente estou aprendendo **Data Science, Ai, Cloud**
 
