@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Me chamo Caio Capitani</h1>
 <h3 align="center">Um futuro Data Scientist</h3>
 
-- 🌱 Atualmente estou aprendendo **Data Science, Ai, Cloud**
+- 🌱 Atualmente estou aprendendo **Pyhton, Data Science, Ai, Cloud**
 
 - 📫 Como entrar em contato comigo: **caiocapitani22@gmail.com**
 
